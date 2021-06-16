@@ -40,8 +40,8 @@ Source32:       base-5.10
 Source33:       mandatory-5.10
 Source34:       base-5.12
 Source35:       mandatory-5.12
-Source34:       base-5.13
-Source35:       mandatory-5.13
+Source36:       base-5.13
+Source37:       mandatory-5.13
 
 %description
 Kernel configuration common fragments
