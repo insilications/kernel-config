@@ -85,6 +85,8 @@ cp %{SOURCE32} configs/
 cp %{SOURCE33} configs/
 cp %{SOURCE34} configs/
 cp %{SOURCE35} configs/
+cp %{SOURCE36} configs/
+cp %{SOURCE37} configs/
 
 %build
 
