@@ -1,6 +1,6 @@
 Name:           kernel-config
 Version:        5
-Release:        300
+Release:        333
 License:        GPL-2.0
 Summary:        Linux kernel configuration common fragments
 Group:          kernel
