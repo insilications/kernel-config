@@ -17,9 +17,9 @@ CONFIG_STRICT_DEVMEM=y
 CONFIG_IO_STRICT_DEVMEM=y
 
 # Needed to protect against targeted corruption by rootkits
-CONFIG_DEBUG_CREDENTIALS=y
-CONFIG_DEBUG_LIST=y
-CONFIG_DEBUG_SG=y
+#CONFIG_DEBUG_CREDENTIALS=y
+#CONFIG_DEBUG_LIST=y
+#CONFIG_DEBUG_SG=y
 CONFIG_SCHED_STACK_END_CHECK=y
 
 # Needed to protect against Spectre V2
@@ -41,7 +41,7 @@ CONFIG_SECCOMP_FILTER=y
 CONFIG_VMAP_STACK=y
 
 # Perform extensive checks on reference counting
-CONFIG_REFCOUNT_FULL=y
+#CONFIG_REFCOUNT_FULL=y
 
 # Check for memory copies that might overflow a structure in str*() and mem*() functions both at build-time and run-time.
 #CONFIG_FORTIFY_SOURCE=y
